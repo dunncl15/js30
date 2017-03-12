@@ -48,6 +48,11 @@ nav {
   z-index: 1;
 }
 
+nav.fixed {
+  position: fixed;
+  z-index: 3;
+}
+
 nav ul {
   margin: 0;
   padding:0;
